@@ -22,12 +22,6 @@ Estudiante de doble titulación en Ciencia de la Computación y Matemáticas Apl
 
 ---
 
-### Estadísticas de GitHub
-![Estadísticas de Alexis](https://github-readme-stats.vercel.app/api?username=alexiscuevasheras&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexiscuevasheras&layout=compact&theme=tokyonight)
-
----
-
 ### Contacto
 * **LinkedIn:** [linkedin.com/in/alexis-cuevas-heras/](https://www.linkedin.com/in/alexis-cuevas-heras/)
 * **Email:** alexis.cygni@gmail.com
